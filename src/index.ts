@@ -12,6 +12,7 @@ const plugin: JupyterFrontEndPlugin<void> = {
   autoStart: true,
   activate: (app: JupyterFrontEnd) => {
     console.log('JupyterLab extension releasetest is activated!');
+    console.log('Adding a line for commit');
   }
 };
 
