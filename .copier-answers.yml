@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.2.0
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: me@test.com
+author_name: Mock
+has_binder: true
+has_settings: false
+kind: frontend
+labextension_name: releasetest
+project_short_description: A JupyterLab extension.
+python_name: releasetest
+repository: https://github.com/Rmarieta/jupyterlab-test-release
+test: true
+
