@@ -27,9 +27,6 @@
         "type": "git",
         "url": "https://github.com/Rmarieta/jupyterlab-test-release.git"
     },
-    "workspaces": [
-        "ui-tests"
-    ],
     "scripts": {
         "build": "jlpm build:lib && jlpm build:labextension:dev",
         "build:prod": "jlpm clean && jlpm build:lib:prod && jlpm build:labextension",
